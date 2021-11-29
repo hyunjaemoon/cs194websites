@@ -11,3 +11,5 @@ Fun with Filters and Frequencies: https://inst.eecs.berkeley.edu/~cs194-26/fa21/
 Face Morphing: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/proj3/cs194-26-aaq/
 
 [Auto]Stitching Photo Mosaics: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/proj4B/cs194-26-aaq/
+
+Facial Keypoint Detection with Neural Networks: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/proj5/cs194-26-aaq/
